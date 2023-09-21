@@ -1,0 +1,4 @@
+[ # ./polybar 
+  ./greenclip 
+  # ./picom 
+]
